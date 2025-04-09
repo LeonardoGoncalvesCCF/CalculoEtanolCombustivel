@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoEtanolCombustivel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2a7953538a38d9802f6a02c3bf3d67a7e4212b0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoEtanolCombustivel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoEtanolCombustivel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
