@@ -2,23 +2,39 @@
 {
     public partial class MainPage : ContentPage
     {
-        int count = 0;
+  
 
         public MainPage()
         {
             InitializeComponent();
         }
 
-        private void OnCounterClicked(object sender, EventArgs e)
+        private void Button_Clicked(object sender, EventArgs e)
         {
-            count++;
+            try //Criando try catch para tratar possiveis erros
+            {
+                //convertendo string para double
+                double etanol = Convert.ToDouble(txt_etanol.Text); 
+                double gasolina = Convert.ToDouble(txt_gasolina.Text);
 
-            if (count == 1)
-                CounterBtn.Text = $"Clicked {count} time";
-            else
-                CounterBtn.Text = $"Clicked {count} times";
+                string msg = "";
 
-            SemanticScreenReader.Announce(CounterBtn.Text);
+                if (etanol <= (gasolina * 0.7))
+                {
+                    msg = "O etanol está compensando.";
+                }
+                else
+                {
+                    msg = "A gasolina está compensando.";
+                }
+
+                DisplayAlert("Calculado", msg, "ok");
+
+            }
+            catch (Exception ex) //Mensagem de erro
+            {
+                DisplayAlert("Ops", ex.Message, "Fechar");
+            }
         }
     }
 

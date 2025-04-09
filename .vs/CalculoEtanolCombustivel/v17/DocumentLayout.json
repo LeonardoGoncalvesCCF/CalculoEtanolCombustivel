@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\leonardo\\source\\repos\\CalculoEtanolCombustivel\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C684B895-EB1E-499E-AFEE-2C085898A4AE}|CalculoEtanolCombustivel\\CalculoEtanolCombustivel.csproj|c:\\users\\leonardo\\source\\repos\\calculoetanolcombustivel\\calculoetanolcombustivel\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C684B895-EB1E-499E-AFEE-2C085898A4AE}|CalculoEtanolCombustivel\\CalculoEtanolCombustivel.csproj|solutionrelative:calculoetanolcombustivel\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C684B895-EB1E-499E-AFEE-2C085898A4AE}|CalculoEtanolCombustivel\\CalculoEtanolCombustivel.csproj|c:\\users\\leonardo\\source\\repos\\calculoetanolcombustivel\\calculoetanolcombustivel\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C684B895-EB1E-499E-AFEE-2C085898A4AE}|CalculoEtanolCombustivel\\CalculoEtanolCombustivel.csproj|solutionrelative:calculoetanolcombustivel\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\CalculoEtanolCombustivel\\CalculoEtanolCombustivel\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CalculoEtanolCombustivel\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\leonardo\\source\\repos\\CalculoEtanolCombustivel\\CalculoEtanolCombustivel\\MainPage.xaml.cs",
+              "RelativeToolTip": "CalculoEtanolCombustivel\\MainPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T21:30:48.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\leonardo\\source\\repos\\CalculoEtanolCombustivel\\CalculoEtanolCombustivel\\MainPage.xaml",
               "RelativeDocumentMoniker": "CalculoEtanolCombustivel\\MainPage.xaml",
@@ -30,8 +47,7 @@
               "RelativeToolTip": "CalculoEtanolCombustivel\\MainPage.xaml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAwwA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-09T21:26:10.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T21:26:10.028Z"
             }
           ]
         }
